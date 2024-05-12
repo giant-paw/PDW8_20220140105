@@ -1,0 +1,70 @@
+.navbar {
+    background-color: white;
+}
+
+.navbar-brand {
+    margin-left: 12vh;
+}
+
+.collapse {
+    margin-left: 1vh;
+}
+
+.collapse ul li {
+    margin: 0 7px;
+}
+
+.iniAbout {
+    background-color: rgb(247, 246, 246);
+}
+
+.content {
+    display: flex; 
+    justify-content: space-between;
+}
+
+.content .tulisan {
+    margin-top: 20vh;
+    margin-left: 90px;
+    font-size: 13px;
+    flex: 2; 
+    margin-right: 60px; 
+}
+
+.content .tulisan p {
+    padding-top: 10px;
+    font-size: 16px;
+}
+
+
+.content .gambar-samping {
+    flex: 1; 
+    display: flex;
+    justify-content: center; 
+}
+
+.content .gambar-samping img {
+    height: 572px;
+    width: 600px;
+}
+
+.iniAbout .tombol1 {
+    background-color: rgb(31, 31, 219);
+    margin-top: 15px;
+    color: white;
+    font-weight: 600;
+    border: none;
+    font-size: 15px;
+    border-radius: 35px;
+    padding: 15px 45px;
+}
+
+.iniAbout .tombol2 {
+    background-color: white;
+    font-weight: 600;
+    border: 2px solid rgb(31, 31, 219);
+    font-size: 15px;
+    border-radius: 35px;
+    padding: 15px 45px;
+    margin-left: 15px;
+}

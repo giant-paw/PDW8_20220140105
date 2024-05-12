@@ -1,0 +1,58 @@
+.navbar {
+    background-color: white;
+}
+
+.navbar-brand {
+    margin-left: 12vh;
+}
+
+.collapse {
+    margin-left: 1vh;
+}
+
+.collapse ul li {
+    margin: 0 7px;
+}
+
+  .donasi {
+    background-color: rgb(247, 246, 246);
+    padding-top: 3vh;
+    padding-bottom: 6vh;
+  }
+
+  .form-donasi {
+    color: white;
+    background-color: rgb(41, 39, 39);
+    width: 400px; 
+    margin: 0 auto;
+    border-radius: 70px;
+    padding: 2vh 0;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.1); 
+  }
+
+  .form-donasi h2 {
+    padding-top: 4vh;
+    margin-left: 7vh;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    padding: 3px 55px;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-left: 8vh;
+    background-color: rgb(31, 31, 219);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 2vh;
+  }
+  
+  button:hover {
+    background-color: #007bff;
+  }
+  
